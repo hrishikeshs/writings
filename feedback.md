@@ -4,7 +4,7 @@ After reading Daniel Kahneman's book "Thinking, fast and slow",  I changed my ap
 It's probably the most influential book I have read in recent memory.
 
 One of the key insights in his book is the stark difference between how we experience life, and how we remember it. Kahneman splits our sense of self into two parts: The "experiencing-self", and the "remembering-self". He shows how they often produce contradictory answers when asked the same question.
-In other words, we all have terrible recollection capacities even though it *seems* like we remember things well-enough.
+In other words, we have terrible recollection capacities even though it *seems* like we remember things well-enough.
 
 Having learned this, I changed my process towards writing interview feedback after I interview someone.
 
