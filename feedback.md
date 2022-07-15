@@ -1,21 +1,20 @@
 # Kahneman and interviewing candidates
 
-
-After reading Daniel Kahneman's book "Thinking, fast and slow",  I changed my approach towards a few situations that regularly arise in my day-to-day. 
+After reading Daniel Kahneman's book "Thinking, fast and slow",  I changed my approach towards a few situations that regularly arise in my day-to-day.
 It's probably the most influential book I have read in recent memory.
 
 One of the key insights in his book is the stark difference between how we experience life, and how we remember it. Kahneman splits our sense of self into two parts: The "experiencing-self", and the "remembering-self". He shows how they often produce contradictory answers when asked the same question.
-In other words, we all have horrible memories and recollection capacities even though it *seems* like we remember things well-enough.
+In other words, we all have terrible recollection capacities even though it *seems* like we remember things well-enough.
 
-I changed my process towards writing interview feedback after I interview someone.
+Having learned this, I changed my process towards writing interview feedback after I interview someone.
 
 At most tech companies, there are guidelines around when the interview feedback is due - that is, the time given for interviewers to enter their notes and feedback into the system. Typically, this is 24 hours. Of course, if a candidate is interviewed on a Friday, the interviewers will be given until Monday to enter their notes and provide a rating which will be used to determine hire/no-hire decision once all the feedbacks come in.
 
-The problem of course, is that 24 hours is far too long. It's too much time after the interview is over. 
+The problem of course, is that 24 hours is far too long. It's too much time after the interview is over.
 
 Given the evidence that the experiencing and remembering selves produce different answers to the same question, if an interviewer sits down to write their feedback, it's highly likely that the feedback they write is written from their remembering-self, and it completely ignores what actually happened during the interview. This is sub-optimal for obvious reasons.
 
-Worse, given the evidence Kahneman provides about how the environment primes/clouds individuals' judgement, a whole host of other things are at play when the interviewer interviews/writes feedback: 
+Worse, given the evidence Kahneman provides about how the environment primes/clouds individuals' judgement, a whole host of other things are at play when the interviewer interviews/writes feedback:
 
 1. Priming and/or Anchoring effect - is the interviewer in a good mood or a bad mood? did they have two interviews they accepted back-to-back on successive days, and the feedback for candidate #1 is still due? - This can impact the feedback that will be written, given that the interviewer has *just* finished talking to a much better/worse candidate. Instead of being evaluated against a (somewhat fixed) hiring bar, the candidates are now evaluated *relative* to each other.
 
