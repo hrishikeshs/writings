@@ -35,5 +35,3 @@ To fix the problems above, my process these days is something like this:
 - In case it's not possible to enter my interview feedback immediately after I interview someone, I make it a point to write the feedback from the perspective of my past experiencing-self - That is, if I suffer cognitive dissonance, the notes I have taken "win" over what my mind is now saying (remembering self's judgement is discarded).
 
 - Avoid accepting back to back interview requests if I feel there isn't enough time to complete feedback for the first candidate. In case such requests come in, either swap the second interview request with someone else or decline politely.
-
-<a rel="me" href="https://mastodon.social/@hrishikeshs">Mastodon</a>
