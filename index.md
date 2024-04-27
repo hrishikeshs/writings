@@ -1,6 +1,6 @@
 About me:
 [Github](https://github.com/hrishikeshs)
-[LinkedIn](https://linkedin.com/hrishikesh-s)
+[LinkedIn](https://www.linkedin.com/in/hrishikesh-s/)
 
 Blog index
 ==========
