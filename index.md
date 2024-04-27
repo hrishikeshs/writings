@@ -1,11 +1,9 @@
-Blog index
-
-
 About me:
-[Github] (https://github.com/hrishikeshs)
-[LinkedIn] (https://linkedin.com/hrishikesh-s)
+[Github](https://github.com/hrishikeshs)
+[LinkedIn](https://linkedin.com/hrishikesh-s)
 
-Posts:
+Blog index
+==========
 
 [Kahneman and interivew feedback](https://www.hrishi.io/feedback)
 
