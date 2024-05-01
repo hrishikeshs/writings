@@ -27,7 +27,7 @@ A relevant example of this metrics-driven-development culture in today's times i
 excellent piece on [how google search was deliberately made useless](https://www.wheresyoured.at/the-men-who-killed-google/)
 by Ed Zitron. Go read the above article if you've not read it yet and come back here.
 
-Any discussion about metrics is incomplete without the mention of Goodhart's law](https://en.wikipedia.org/wiki/Goodhart%27s_law)
+Any discussion about metrics is incomplete without the mention of [Goodhart's law](https://en.wikipedia.org/wiki/Goodhart%27s_law)
 which states that:
 
 "When a measure becomes a target, it ceases to be a good measure".
