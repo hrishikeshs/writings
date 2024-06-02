@@ -10,3 +10,5 @@ Blog index
 [Software development and productivity 1](https://www.hrishi.io/productivity-1)
 
 [Metrics](https://www.hrishi.io/metrics)
+
+[Internet advertising 1](https://www.hrishi.io/internet-advertising)
