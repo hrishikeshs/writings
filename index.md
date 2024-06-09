@@ -12,3 +12,5 @@ Blog index
 [Metrics](https://www.hrishi.io/metrics)
 
 [Internet advertising 1](https://www.hrishi.io/internet-advertising)
+
+[Software is hard 1](https://www.hrishi.io/software-is-hard-1)
