@@ -1,5 +1,8 @@
 # Software is hard 1
 
+**Tl;dr: our software needs to interact with the real world and the real
+world is messy! So it's hard to model things in a sane way**
+
 Writing software is very hard. Any non-trivial program is very difficult to write
 because when creating new software, we're usually trying to do something
 that's never been done before. I'll try to explain what makes it hard in this
@@ -9,32 +12,28 @@ Software development is very different from other fields of engineering where
 you usually have much more information about what you're building, and how you're
 going to do that. For example, when a civil engineer is tasked with building a
 new sky-scraper, he can look at existing sky-scrapers in the area to get
-an understanding of the trade-offs, requirements etc.
+an understanding of the requirements and trade-offs.
 
-Usually in software development, requirements aren't clear when you start a
-project. Continuing our example of constructing a sky-scraper, everyone
-understands that you can't ask for another 10 floors to be added to the structure
-once the original building is done, or even when half the building is done.
-No such limitation exists in software, so the complexity of our project
-increases endlessly. (Some software indeed has finite limits, I'll write about
+In most application software development, requirements aren't clear
+when you start a project. Continuing our example of constructing a
+sky-scraper, everyone understands that you can't ask for another
+10 floors to be added to the structure once the original building is
+done, or even when half bthe building is done. No such limitation exists
+in software, so the complexity of our project increases endlessly.
+(Some software indeed has finite limits, I'll write about
 that kind soon.)
 
-The technical challenge of implementing a sorting algorithm or a
-new UI widget is not the hardest part: For instance, there are probably a
+The difficult part is not about writing code for the new UI widget, or
+writing a new sorting algorithm implementation. There are probably a
 hundred different implementations of the same sorting algorithm, or the
-same UI menu item widget, or the code for infinite scrolling, etc.
-The hard part is the unfortunate fact that:
-
-**our software needs to interact with the real world and the real
-world is messy!**
+same UI menu item widget, or the code for infinite scrolling.
 
 In all likelihood, if you're a professional programmer, chances are
 you've never implemented a sorting algorithm, or the infinite scroll UI
-widget, or a time-series database from scratch yourself for production use,
-because there are prebuilt libraries/components available for you which do
-them.
+widget, or a time-series database from scratch yourself for production use.
 
-The truly difficult work lies in:
+The hardest part is:
+
 **Trying to model the real world using code in a way that's
 understandable by a dumb machine while accounting for all the different states
 that the real world can be in**.
