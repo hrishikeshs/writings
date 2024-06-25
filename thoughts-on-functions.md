@@ -24,7 +24,70 @@ end up with a rich vocabulary with which you can express objects and their
 relationships. To illustrate this with a code example, consider the code below
 which you might find in a typical codebase:
 
-{% gist ceac10698471cb3aa8cc16ab3a378d70 %}
+```
+export type DateOfBirth = {
+  day: number;
+  month: number;
+  year: number;
+};
+
+export type User = {
+ firstName: string | undefined;
+ lastName: string | undefined;
+ dateOfBirth: DateOfBirth | undefined;
+ license: number | undefined;
+ planType: 'free' | 'premium' | 'pro';
+ numAccounts: number;
+};
+
+const createUser = () => {
+  const user = {
+   firstName: undefined,
+   lastName: undefined,
+   dateOfBirth: undefined,
+   license: undefined,
+   planType: 'free',
+   numAccounts: 1
+  };
+
+  const setName = (firstName, lastName) => {
+    user.firstName = firstName;
+    user.lastName = lastName;
+   }
+    /* ... other setters */
+  const getName = () => {
+    const { firstName, lastName } = user;
+    return { firstName, lastName};
+   }
+    /* ... other getters */
+  const getUserDetails = () => {
+    return Object.freeze({...user});
+  }
+
+  return Object.freeze({
+   getName,
+   setName,
+   getUserDetails
+ });
+};
+
+const isUserEligibleForLicense = (user: User) => {
+    // write code here that checks if the user's age is >= 16
+}
+
+const isPremiumUser = (user: User) => {
+    // write code here that checks if the user's plantype is premium;
+}
+
+const isProUser = (user: User) => {
+    // write code here that checks if the user's plantype is 'pro';
+}
+
+const isFreeUser = (user: User) => {
+    // write code here that checks if the user's plantype is 'free';
+}
+...
+```
 
 Here, I have written the functions `isUserEligibleForLicense`, `isPremiumUser` , `isProUser` which taken in a `User` object and return various results based on
 the info present. (We could also make these instance methods of the `User` class. It doesn't matter in this context)
@@ -33,13 +96,36 @@ If you have defined functions as illustrated, you now have more "words" in
 your vocabulary while programming. They are better abstraction primitives. For
 example, you can write code that looks like this:
 
+```
+const getUpgradePromoBanner = (user: User) => {
 
-{% gist 047429326db68a436a57c5c24d821660 %}
+  if (isPremiumUser(user)) {
+     return 'PREMIUM_TO_PRO';
+  }
+  if (isFree(user)) {
+    return 'FREE_TO_PREMIUM';
+  }
+  ...
+}
+
+```
+
 
 Here, you can use the functions you've defined already to make your code read
 almost like natural language. This is far better than code that looks like this:
 
-{% gist 8ff70d5326a3e232c4fd76da9d85a9a1 %}
+```
+const getUpgradePromoBanner = (user: User) => {
+
+  if (user.getplanType() === 'premium') {
+     return 'PREMIUM_TO_PRO';
+  }
+  if (user.getPlanType() === 'free') {
+    return 'FREE_TO_PREMIUM';
+  }
+  ...
+}
+```
 
 imo. I prefer the first style as it's more **_expressive_**. You don't have to
 dig up the property `planType` of the user object and do a comparison. The
