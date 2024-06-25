@@ -89,8 +89,8 @@ const isFreeUser = (user: User) => {
 ...
 ```
 
-Here, I have written the functions `isUserEligibleForLicense`, `isPremiumUser` , `isProUser` which taken in a `User` object and return various results based on
-the info present. (We could also make these instance methods of the `User` class. It doesn't matter in this context)
+Here, I have written the functions `isUserEligibleForLicense`, `isPremiumUser` , `isProUser` which take in a `User` object and return various results based on
+the info present. (We could also make these instance methods of the `User` class. It doesn't matter in this discussion)
 
 If you have defined functions as illustrated, you now have more "words" in
 your vocabulary while programming. They are better abstraction primitives. For
@@ -136,9 +136,9 @@ load reduction in large codebases when things are written in more expressive
 semantics. Given that code is read much more than it's written. It's worth taking
 the time to define new words and concepts we can use to make our lives simpler.
 
-- Unit-Testable chunks: The third way of looking at a function is viewing your
-code through the lens of testing. Often, the simplest way to test a chunk of code
-is to extract it to a function (preferably a pure function), and exhaustively
+- Unit-Testable chunks: The third way of looking at a function is as a piece of
+independently unit-testable block. Often, the simplest way to test a chunk of
+code is to extract it to a function (preferably a pure function), and exhaustively
 test it's logic. This is especially critical when you have a lot of branching
 logic, or complex state manipulation you're doing. I can think of times when
 I extracted things to a pure function even though it was called only once in
