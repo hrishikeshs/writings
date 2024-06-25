@@ -14,3 +14,5 @@ Blog index
 [Internet advertising 1](https://www.hrishi.io/internet-advertising)
 
 [Software is hard 1](https://www.hrishi.io/software-is-hard-1)
+
+[Thoughts on functions](https://www.hrishi.io/thoughts-on-functions)
