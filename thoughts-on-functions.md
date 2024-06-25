@@ -24,7 +24,7 @@ end up with a rich vocabulary with which you can express objects and their
 relationships. To illustrate this with a code example, consider the code below
 which you might find in a typical codebase:
 
-<script src="https://gist.github.com/hrishikeshs/ceac10698471cb3aa8cc16ab3a378d70"></script>
+{% gist ceac10698471cb3aa8cc16ab3a378d70 %}
 
 Here, I have written the functions `isUserEligibleForLicense`, `isPremiumUser` , `isProUser` which taken in a `User` object and return various results based on
 the info present. (We could also make these instance methods of the `User` class. It doesn't matter in this context)
@@ -34,12 +34,12 @@ your vocabulary while programming. They are better abstraction primitives. For
 example, you can write code that looks like this:
 
 
-<script src="https://gist.github.com/hrishikeshs/047429326db68a436a57c5c24d821660"></script>
+{% gist 047429326db68a436a57c5c24d821660 %}
 
 Here, you can use the functions you've defined already to make your code read
 almost like natural language. This is far better than code that looks like this:
 
-<script src="https://gist.github.com/hrishikeshs/8ff70d5326a3e232c4fd76da9d85a9a1"></script>
+{% gist 8ff70d5326a3e232c4fd76da9d85a9a1 %}
 
 imo. I prefer the first style as it's more **_expressive_**. You don't have to
 dig up the property `planType` of the user object and do a comparison. The
