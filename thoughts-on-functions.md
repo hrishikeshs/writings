@@ -1,4 +1,4 @@
-# Different ways of looking at functions
+# Thoughts on functions
 
 Lately I've been thinking about some of the fundamental programming concepts
 and have been trying to see if I can discover new things about them, or look at
