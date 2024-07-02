@@ -16,3 +16,5 @@ Blog index
 [Software is hard 1](https://www.hrishi.io/software-is-hard-1)
 
 [Thoughts on functions](https://www.hrishi.io/thoughts-on-functions)
+
+[Software is feature complete](https://www.hrishi.io/software-is-feature-complete)
