@@ -1,5 +1,7 @@
 # Kahneman and interviewing candidates
 
+**published on : Sunday, June 23, 2024**
+
 
 After reading Daniel Kahneman's book "Thinking, fast and slow",  I changed my approach towards a few situations that regularly arise in my day-to-day.
 It's probably the most influential book I have read in recent memory.

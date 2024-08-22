@@ -1,5 +1,7 @@
 # Software development productivity (inhibitors) - I
 
+**published on : Friday, April 26, 2024**
+
 Over the years, I've noticed that my software development happens in a bursty
 manner. It's very rare that I sit down and write good, clean code that is of the same
 nature everyday. Sometimes, I do lots of little bug fixes and clean up. Other days,

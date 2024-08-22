@@ -1,5 +1,7 @@
 # Internet advertising - 1
 
+**published on : Saturday, June 1, 2024**
+
 Advertising has ruined the internet. The most visible example of this is on search engine results,
 closely followed by every social media feed ever. Right off the bat, I have to take some blame
 for it because I once worked on ad-campaign creation and optimization flows for enterprise

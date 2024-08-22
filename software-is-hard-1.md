@@ -1,5 +1,9 @@
 # Software is hard 1
 
+**published on Sunday, June 9, 2024**
+
+
+
 **Tl;dr: our software needs to interact with the real world and the real
 world is messy! So it's hard to model things in a sane way**
 

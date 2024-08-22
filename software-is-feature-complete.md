@@ -1,5 +1,7 @@
 # Software is feature complete
 
+**published on : Monday, July 1, 2024**
+
 The thing about software is that it takes a really long time to figure out
 what you want it to do. It's a cliche, but you never really know a lot
 of the requirements upfront, no matter how thorough you think you are.

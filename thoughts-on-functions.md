@@ -1,5 +1,8 @@
 # Thoughts on functions
 
+**published on Monday, June 24, 2024**
+
+
 Lately I've been thinking about some of the fundamental programming concepts
 and have been trying to see if I can discover new things about them, or look at
 them through a new lens.
