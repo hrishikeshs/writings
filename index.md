@@ -18,3 +18,5 @@ Blog index
 [Thoughts on functions](https://www.hrishi.io/thoughts-on-functions)
 
 [Software is feature complete](https://www.hrishi.io/software-is-feature-complete)
+
+[Software industry's middle age](https://www.hrishi.io/software-industry-middle-age)
