@@ -3,11 +3,12 @@
 **published on : Wednesday, September 4, 2024**
 
 I have always been a cryptocurrency skeptic. I never really understood how they
-worked when I initially came across crypto currencies. Today, I understand how they work perfectly - crypto-currencies have no value, but they can be priced
+worked when I initially came across crypto currencies. Today, I understand how they
+work perfectly - crypto-currencies have no value, but they can be priced
 because there is a market. It was prof Aswath Damodaran who thoroughly explained
 to me how something can have a price but no value. His post on this subject is
 the best I've come across. Go read it:
-https://aswathdamodaran.blogspot.com/2017/10/the-bitcoin-boom-asset-currency.html
+[https://aswathdamodaran.blogspot.com/2017/10/the-bitcoin-boom-asset-currency.html](https://aswathdamodaran.blogspot.com/2017/10/the-bitcoin-boom-asset-currency.html)
 
 Since I'm a skeptic, I have stayed away from crypo currencies. Never bought any,
 never traded any, no nothing. A few years ago, I started hearing a lot about
