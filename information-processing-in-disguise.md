@@ -59,7 +59,7 @@ that information to control the traffic light switching for commuters.
 
 Similarly, if you could get every patient's schedule, and the information about
 the hospital - doctors' existing appointments, availability of nurses, rooms, etc,
-you could build a pretty good system for matching doctor's with patients.
+you could build a pretty good system for matching doctors with patients.
 
 Earlier, it was hard to obtain this kind of information because we just didn't
 have networks that could feed this info from the source where it was generated
