@@ -22,3 +22,5 @@ Blog index
 [Software industry's middle age](https://www.hrishi.io/software-industry-middle-age)
 
 [Thoughts on Zeke Faux's book 'Number Go Up'](https://www.hrishi.io/number-go-up)
+
+[Information processing problems in disguise](https://www.hrishi.io/information-processing-in-disguise)
