@@ -24,3 +24,5 @@ Blog index
 [Thoughts on Zeke Faux's book 'Number Go Up'](https://www.hrishi.io/number-go-up)
 
 [Information processing problems in disguise](https://www.hrishi.io/information-processing-in-disguise)
+
+[Caching node modules on gitlab CI runners](https://www.hrishi.io/gitlab-node-modules-caching)
