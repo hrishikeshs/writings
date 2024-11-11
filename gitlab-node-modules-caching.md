@@ -1,6 +1,6 @@
 # Caching node modules on gitlab CI runners
 
-**published on : Thursday, November 7, 2024**
+**published on: Thursday, November 7, 2024**
 
 Recently, I was working on our CI/CD setup and started looking at some of the
 optimizations that could be done. We use gitlab for code hosting, and for

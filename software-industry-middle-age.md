@@ -1,6 +1,6 @@
 # Software industry's middle age
 
-**published on : Wednesday, August 28, 2024**
+**published on: Wednesday, August 28, 2024**
 
 Something I have started thinking about a lot these days is the stagnation
 and the maturing of the software industry. These days, I find myself

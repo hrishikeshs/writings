@@ -1,6 +1,6 @@
 # Thoughts on Zeke Faux's book: Number Go Up
 
-**published on : Wednesday, September 4, 2024**
+**published on: Wednesday, September 4, 2024**
 
 I have always been a cryptocurrency skeptic. I never really understood how they
 worked when I initially came across crypto currencies. Today, I understand how they

@@ -1,6 +1,6 @@
 # Thoughts on functions
 
-**published on Monday, June 24, 2024**
+**published on: Monday, June 24, 2024**
 
 
 Lately I've been thinking about some of the fundamental programming concepts

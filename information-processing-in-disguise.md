@@ -1,6 +1,6 @@
 # Information processing problems in disguise
 
-**published on : Saturday, September 28, 2024**
+**published on: Saturday, September 28, 2024**
 
 When visiting Bangalore recently, I saw that the city had installed a newer
 traffic signal switching system. The old traffic signals used set timers for
