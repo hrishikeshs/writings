@@ -5,6 +5,9 @@ About me: \
 Blog index
 ==========
 
+ [Writing JavaScript without using 'this' and 'new'](https://www.hrishi.io/js-without-new-and-this) \
+ (published on: Thursday, November 21, 2024)
+
  [Caching node modules on gitlab CI runners](https://www.hrishi.io/gitlab-node-modules-caching) \
  (published on: Thursday, November 7, 2024)
 
