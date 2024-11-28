@@ -26,6 +26,9 @@ Blog index
  [Thoughts on functions](https://www.hrishi.io/thoughts-on-functions)\
  (published on: Monday, June 24, 2024)
 
+ [Kahneman and interview feedback](https://www.hrishi.io/feedback)\
+ (published on: Sunday, June 23, 2024)
+
  [Software is hard 1](https://www.hrishi.io/software-is-hard-1)\
  (published on: Sunday, June 9, 2024)
 
@@ -37,6 +40,3 @@ Blog index
 
  [Software development and productivity 1](https://www.hrishi.io/productivity-1)\
  (published on: Friday, April 26, 2024)
-
- [Kahneman and interview feedback](https://www.hrishi.io/feedback)\
- (published on: Sunday, June 23, 2024)
