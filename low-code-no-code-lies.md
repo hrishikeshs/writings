@@ -7,10 +7,10 @@ Over the years, a few start-ups have made the following pitch:
 > "You know how you have to pay a lot of money to your software developers,
 > and how they act like prima-donnas whenever you ask for new features
 > and refuse to commit to strict timelines?
-
+>
 > Wouldn't it be great if your product managers/analysts/etc could build the stuff
 > customers want themselves? or at least cut your # number of programmers in half?
-
+>
 > Well, now you can! just use our low-code, no-code tool to build your business
 > application, and you can fire 50% of your engineers. The rest will then fall
 > in line, and you can crack the whip. Thus, continuing the eternal tradition of

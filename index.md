@@ -5,7 +5,7 @@ About me: \
 Blog index
 ==========
 
- [Low code, no-code, and other lies](https://www.hrishi.io/low-code-no-code) \
+ [Low code, no-code, and other lies](https://www.hrishi.io/low-code-no-code-lies) \
  (published on: Tuesday, January 7, 2025)
 
  [Writing JavaScript without using 'this' and 'new'](https://www.hrishi.io/js-without-new-and-this) \
