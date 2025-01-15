@@ -149,13 +149,16 @@ Creating a programming language  - can be a very rewarding experience, and is
 one of the essential ways of taming complexity as a software system grows.
 Provided it's done deliberately and intentionally.
 
-There is a name for this technique: [Metalinguistic Abstraction](https://web.mit.edu/6.001/6.037/sicp.pdf) [The essense of this idea is to define  a series of languages - where each language in the series deals with a specific level of abstraction,
-and the higher-level languages are built on top of the lower-level ones, all the
-way down.]
+There is a name for this technique: [Metalinguistic Abstraction](https://web.mit.edu/6.001/6.037/sicp.pdf)
+[The essense of this idea is to define  a series of languages - where each
+language in the series deals with a specific level of abstraction,
+and the higher-level languages are built on top of the lower-level ones,
+all the way down.]
 
-I've [seen systems](https://www.linkedin.com/blog/engineering/ab-testing-experimentation/our-evolution-towards-t-rex-the-prehistory-of-experimentation-i)  that have
-built such languages intentionally, defining the boundaries of what can, and cannotbe expressed, with a specific syntax and semantics. They are wonderful to
-use/work-with.
+I've [seen systems](https://www.linkedin.com/blog/engineering/ab-testing-experimentation/our-evolution-towards-t-rex-the-prehistory-of-experimentation-i)
+that have built such languages intentionally, defining the boundaries of what
+can, and cannot be expressed, with a specific syntax and semantics. They are
+wonderful to use/work-with.
 
 Unfortunately, the accidental creation of programming languages occurs much
 more frequently. It's time for developers to recognize when they're about to
