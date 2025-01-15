@@ -5,6 +5,9 @@ About me: \
 Blog index
 ==========
 
+ [Accidentally creating a new programming language](https://www.hrishi.io/accidental-programming-language) \
+ (published on: Tuesday, January 14, 2025)
+
  [Low code, no-code, and other lies](https://www.hrishi.io/low-code-no-code-lies) \
  (published on: Tuesday, January 7, 2025)
 
