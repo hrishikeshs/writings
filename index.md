@@ -1,10 +1,11 @@
-About me: \
+About me:
 
-Hi there 👋 I'm Hrishi.\
-I'm a software developer interested in building useful things for people. \
-I started this blog to write about software development (mostly), but I also write about \
-other things from time to time - like movies I'm watching, or the books I'm reading \
-and other things I enjoy. \
+Hi there 👋 I'm Hrishi.
+
+I'm a software developer interested in building useful things for people.
+I started this blog to write about software development (mostly), but I also write about
+other things from time to time - like movies I'm watching, or the books I'm reading
+and other things I enjoy.
 
 [Github](https://github.com/hrishikeshs) \
 [LinkedIn](https://www.linkedin.com/in/hrishikesh-s/)
