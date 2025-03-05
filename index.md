@@ -1,9 +1,19 @@
 About me: \
+
+Hi there 👋 I'm Hrishi.\
+I'm a software developer interested in building useful things for people. \
+I started this blog to write about software development (mostly), but I also write about \
+other things from time to time - like movies I'm watching, or the books I'm reading \
+and other things I enjoy. \
+
 [Github](https://github.com/hrishikeshs) \
 [LinkedIn](https://www.linkedin.com/in/hrishikesh-s/)
 
 Blog index
 ==========
+
+ [Obsession with consistency](https://www.hrishi.io/obsession-with-consistency) \
+ (published on: Tuesday, March 4, 2025)
 
  [Accidentally creating a new programming language](https://www.hrishi.io/accidental-programming-language) \
  (published on: Tuesday, January 14, 2025)
