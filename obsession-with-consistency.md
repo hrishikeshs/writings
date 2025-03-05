@@ -82,7 +82,7 @@ might look at the above class definition and think "wow, the devs before me were
 idiots! I would never do this." But that's a trap! developers who had been there
 before you were smart - what actually happened is, someone realized they had been
 using the db provided integer (long) ids with auto-increment, and the urls
-started looking like: /user/123, /user/124, /user/125. The site did not want to
+started looking like: `/user/123`, `/user/124`, `/user/125`. The site did not want to
 get crawled by aggressive bots  which were scraping public user-profiles by simply
 requesting one user's info after other.. so they had to do something else. But a
 lot of the old code relied on the `long id` field, so you couldn't simply get rid
