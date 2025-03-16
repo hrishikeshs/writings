@@ -113,7 +113,7 @@ name for 1 thing in the codebase so you have a 1:1 mapping)
 inconsistency during development - linters, type-checking, code formatters etc
 
 - Define the architecture for common operations up-front - there must ideally, be
-only one way to make an api call in your codebase. Examp;e: Don't have your
+only one way to make an api call in your codebase. Example: Don't have your
 codebase use `fetch` api in one place and xhr in another place and $.ajax
 somewhere else.
 
