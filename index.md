@@ -13,6 +13,9 @@ and other things I enjoy.
 Blog index
 ==========
 
+ [Some of my favorite posts-1](https://www.hrishi.io/favorite-posts-1) \
+ (published on: Wednesday, March 19, 2025)
+
  [Obsession with consistency](https://www.hrishi.io/obsession-with-consistency) \
  (published on: Tuesday, March 4, 2025)
 
