@@ -9,7 +9,7 @@ if I wanted to look up the contents.
 
 Now that google search has gone to shit and there is like 1000% AI slop
 on the web, I have become a link-hoader: I bookmark links and also
-submit the to archive.org for posterity.
+submit them to archive.org for posterity.
 
 From time to time, I will write posts here such as this one where I link
 to some of the stuff I'm reading/appreciating.
