@@ -13,6 +13,9 @@ and other things I enjoy.
 Blog index
 ==========
 
+ [You can't "just use AI"](https://www.hrishi.io/just-use-ai) \
+ (published on: Sunday, May 4, 2025)
+
  [Some of my favorite posts 1](https://www.hrishi.io/favorite-posts-1) \
  (published on: Wednesday, March 19, 2025)
 

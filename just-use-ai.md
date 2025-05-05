@@ -1,12 +1,10 @@
-# LLM limits and continuity
+# You can't "just use AI"
 
-**published on : Sunday, April 27, 2025**
+**published on : Sunday, May 4th, 2025**
 
 > _Sidenote: Apologies for the hiatus between this post and the previous one.
 > I intend to write articles regularly. However, I was busy with a few things
 > during the past two months and didn't get a lot of time._
-
-**Warning: This is a loonnnnnggggg article**
 
 I've not written about gen-ai or anything AI-related in a while.
 The last time I wrote about AI was in this piece: [Software industry's middle age](https://www.hrishi.io/software-industry-middle-age), where I said this:
@@ -70,19 +68,16 @@ I use LLMs.
 
 If I had to summarize the chief limitation of LLMs, I would say this:
 
-I still cannot use an LLM to develop programs which exceed a certain complexity
-threshold.
+**I still cannot use an LLM to develop programs which exceed a certain complexity
+threshold. Almost everything in my day job exceeds that complexity threshold.**
 
 An LLM can help me write a util function to convert a JS object(which has some of
 it's keys named in snake_case and some in camelCase) to another JS object
-(where all of the key names follow a consistent pattern). If the conversion is
-straightforward, and the util function can be a pure-function. But it cannot do
+(where all of the key names follow a consistent pattern) - if the conversion is
+straightforward, and the util function can be a pure-function. It cannot do
 much more than that - especially if it has to generate new code that has to
-interact with existing code.
-
-I'm talking about how an LLM fails to help me, when I'm handling business
-requirements which are handed to me all day, every day as I'm an application
-developer.
+interact with existing code. What's more - I have to actually verify that the code
+the LLM generated works as intended.
 
 An example of something the LLM is unable to do is the following:
 
@@ -95,7 +90,7 @@ reliable answers for questions like:
 
 * How is this value 'V' in the function `foo` calculated (assuming `foo` is not
 a pure-function)
-* Find duplicate code which does something similar to what this
+* Find duplicate code which does something **similar** to what this
 `prepareAjaxHeaders` function is doing elsewhere.
 * Is there a different component I can use here?
 * What is the unit test coverage of this specific branch of code?
@@ -108,7 +103,7 @@ something pretty basic - like generating a static site or some marketing site
 bullshit, or the second favorite thing: an e-commerce website with product
 catalog listing. The examples they use are trivial. Their examples don't include
 anything - no authentication, no caching, no feature-flags, no tracking, no
-complexs tate management on the client, no nothing..
+complex state management on the client, no nothing..
 
 If all you want to do is generate a marketing website or a static site, just
 just something like markdown and be done with it. Use wix or squarespace and
@@ -141,7 +136,7 @@ developer, which will influence performance reviews"
 
 The mandate trickles down through the bureaucratic hierarchy and engineering
 managers instruct software developers to "use more AI" in their work.
-They will patiently listen why AI has a limited applications in the
+They will patiently listen why AI has limited applications in the
 day-to-day jobs of professional developers, but they nevertheless insist on
 "figuring out how to use more AI" everywhere.
 
@@ -150,7 +145,7 @@ because we can "just use AI", and "fire 90% of existing developers, and
 get away with having only 10% of developers because - AI" of course!
 
 I'm ~~sad~~ happy to say that this bone-headed "strategy" to "just use AI" and
-"keep thinking of new places to shove it in" doesn't really work in the real world.
+"keep thinking of new places to shove it in" doesn't really work.
 
 If a VP is really serious and they sincerely believe this, they should do the
 following:
@@ -160,43 +155,15 @@ affects your product development velocity. Be honest, and report back.
 
 Until someone does the above, I won't pay any attention to the headlines that say
 shit like: "Google says 70% of it's new code is written by AI", "Rethinking the
-Luddites in the Age of AI", "how to survive AI automation" etc. I have
-deliberately not linked to the articles whose headlines I've quoted because I
-don't want my readers to read useless shit, and I'm not going to send those
-click-baity articles any traffic.
+Luddites in the Age of AI", "how to survive AI automation" etc.
+
+I have deliberately not linked to the articles whose headlines I've quoted above
+because I don't want my readers to read useless shit, and I'm not going to
+send those click-baity articles any traffic.
 
 ## A Thought experiment
 
-The title of this article is: "LLM limits and continuity". I chose this title
-because "limits and continuity" also appear in Mathematics(In calculus, you quickly
-learn the definition of a limit, and the definition of continuity).
-
-A limit of a function F(x), is a value L that F(x) approaches, as it's argument x
-approaches a specific target 'a' written as:
-
-$$\lim_{x\to a} F(x) = L$$
-
-I really like the framework of a limit when I think about complex topics as it is
-very useful and often points out contradictions/absurd assumptions/gives different
-lenses through which a subject can be analysed, etc.
-
-One of the main arguments I hear when I discuss about LLMs, or AI with people is
-the following:
-
->_Sure, it is not able to handle complexity now.. but it will improve over time,
->and pretty soon, most of the job that a developer does will be automated._
-
-The above statement can be written mathematically as a limit:
-
-$$\lim_{t\to\infty} llmImprovement(t)=Software Developer$$
-
-If you consider that all it takes is a "bit more time", then as time t tends to
-infinity, the llm improvements will give you a full-fledged software engineer you
-can use.
-
-Given this background, the thought experiment is this:
-
-Let's say, 1 year from now, the LLMs get good enough to replace software engineers.
+Let's say, a year from now, the LLMs get good enough to replace software engineers.
 Let's say the LLM model will be so good, that it can reliably do whatever a
 reasonably-good software engineer can accomplish. What will be the consequences
 of such an advancement?
@@ -205,14 +172,14 @@ The most obvious answer you get is "mass layoffs and every engineer losing their
 job to AI". This is somewhat correct but it's not the whole picture. Let's think
 deeply about this.
 
-Q: What is the one of the single biggest moats which existing software companies have?
-
-A: The fact that they are existing software companies!
+Q: What is the one of the single biggest moats which an existing software company has?
+A: The fact that it is an existing software company!!
 
 If you try to raise money for a start-up and your pitch is: "I want to create a
 better microsoft word", you will almost certainly raise zero funds. The reason is
 simple - Microsoft Word already exists, and it's existed for close to 35 years.
-At this point, and it has had literally hundreds of thousands of developer hours
+
+At this point, it has had literally hundreds of thousands of developer hours
 poured into it. To replicate even a fraction of it's huge functionality would
 roughly take around the same amount of developer time (maybe a bit less), and no
 one is willing to fund that.
@@ -223,8 +190,8 @@ that can compete with MS word is, for all intents and purposes, zero.
 Now, imagine that the new LLM model - Let's call it SE-1 (for software-engineer-1)
 can reasonably do the job of a software engineer.
 
-You can buy 100 licences of this model and instantly have the capacity of a 100
-software engineers. Since LLMs don't need to eat/sleep/take vacations/time-offs,
+You can buy 100 licences to this model and instantly have the capacity of a 100
+software engineers. Since the AI bots don't need to eat/sleep/take vacations/time-offs,
 and they don't get tired after thinking all day, you can make them work 24x7x365
 
 Suddenly, it's trivial to re-create the entire Microsoft Word suite from scratch
@@ -241,7 +208,7 @@ software company has - it's software is worthless!!
 The effect this will have on existing software companies will be devastating - No
 one will make any money because there will be intense competition. Remember all
 those developers who were laid off? what do you think they are doing at home?
-they are using AI to build software which used to be sold by their old company
+They are using AI to build software which used to be sold by their old company
 before..and are either trying to compete with the company, or putting it up for
 free as open source software.
 
@@ -253,8 +220,49 @@ eventually be laid off anyway - so we don't have to worry about that.
 
 ## Economic consequences
 
--- unemployment?
+Alan Turing starts off his paper with the observation that asking the question:
+"Can machines think?" is dumb and absurd. [Link here](https://courses.cs.umbc.edu/471/papers/turing.pdf)
+
+Quoting:
+>I propose to consider the question, "Can machines think?" This should begin with
+>definitions of the meaning of the terms "machine" and "think." The definitions might be
+>framed so as to reflect so far as possible the normal use of the words, but this attitude is
+>dangerous, If the meaning of the words "machine" and "think" are to be found by
+>examining how they are commonly used it is difficult to escape the conclusion that the
+>meaning and the answer to the question, "Can machines think?" is to be sought in a
+>statistical survey such as a Gallup poll. But this is absurd.
+
+Somehow, this is lost when discussing AI literature and the dogma now is "to build machines
+that think for us". As far as I can tell, the current iteration of artificial intelligence
+will have a very minor consequence on the overall economy and the productivity
+growth/boom everyone is expecting is not going to materialize anytime soon.
+
+If I had to wager, I would say that the valuations enjoyed by the current AI start-ups and
+companies are going to fall by more than 50% - 60% in the next 3-5 years. If anything, the
+datacenter and networking infrastructure build-out might prove to be useful for
+something else - much like how laying down thousands of miles of fiber and telephone
+lines during the dotcom bubble gave rise to the modern internet which was quite far away
+(from the time at which the investment started).
+
+There could also be a lot of new research/breakthroughs in the energy-sector because
+energy consumption is something that is going through the roof to train these giant models.
 
 ## Second order effects
 
--- bankruptcy
+We examined the first order effects above - but I think there are a lot of second-order effects
+from the LLM boom. These are basically highly niche use-cases which are quite suited to LLM
+and AI. Examples are:
+- predicting protein structure,
+- drug discovery,
+- treating hereditary diseases by examining large amounts of health data - finding risk factors,
+causes, helping us understand contributing factors better
+- Processing vast amounts of unstructured information (search on steroids) (E.g: OCR is solved now)
+
+It will be in these and related fields where AI and LLMs actually shine and enable researchers
+to make progress.
+
+So..bad news to all the CEOs and the VPs and the directors I guess?
+
+You will still need employees to run your business. For now. For the foreseeable future.
+
+See also: [Why there will always be programmers](https://www.johndcook.com/blog/2008/10/27/why-there-will-always-be-programmers/)
