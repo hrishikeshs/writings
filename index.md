@@ -13,6 +13,9 @@ and other things I enjoy.
 Blog index
 ==========
 
+ [Writing things down and reading them back](https://www.hrishi.io/writing-things-down-and-reading-them-back) \
+ (published on: Wednesday, August 13th, 2025)
+
  [Preview first](https://www.hrishi.io/preview-first) \
  (published on: Wednesday, July 9th, 2025)
 
