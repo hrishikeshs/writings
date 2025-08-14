@@ -52,8 +52,7 @@ proposal to fall apart completely.
 
 I said that "Software engineering is all about finding out efficient ways to
 write things down and operate on that stuff". Historically, a "computer" used to
-mean someone who "computes". In fact, there were
-[actually people who were called "computers"](https://en.wikipedia.org/wiki/Computer_(occupation).
+mean someone who "computes". In fact, there were [actually people who were called "computers"](https://en.wikipedia.org/wiki/Computer_(occupation)).
 
 They would write stuff down in a ledger or a notebook or a punch card or
 something. They would "process" it by adding numbers, updating the ledger,
@@ -116,4 +115,4 @@ instructions telling the processor how to write stuff down, and read it back.
 Design patterns and SOLID principles and other techniques are useful,and I use them often. Focusing on the fundamentals doesn't mean you abandon the higher level views of the system you're building
 
 ##### 2:
-See also: https://youtu.be/V_7mmwpgJHU?si=d-Qgffy5M92YtlGF
+See also: [https://youtu.be/V_7mmwpgJHU?si=d-Qgffy5M92YtlGF](https://youtu.be/V_7mmwpgJHU?si=d-Qgffy5M92YtlG)
