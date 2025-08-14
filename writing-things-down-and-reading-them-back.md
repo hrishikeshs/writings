@@ -112,6 +112,8 @@ instructions telling the processor how to write stuff down, and read it back.
 
 #### Notes:
 
-##### 1: Design patterns and SOLID principles and other techniques are useful,and I use them often. Focusing on the fundamentals doesn't mean you abandon the higher level views of the system you're building
+##### 1:
+Design patterns and SOLID principles and other techniques are useful,and I use them often. Focusing on the fundamentals doesn't mean you abandon the higher level views of the system you're building
 
-##### 2: See also: https://youtu.be/V_7mmwpgJHU?si=d-Qgffy5M92YtlGF
+##### 2:
+See also: https://youtu.be/V_7mmwpgJHU?si=d-Qgffy5M92YtlGF
