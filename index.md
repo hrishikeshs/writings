@@ -13,7 +13,7 @@ and other things I enjoy.
 Blog index
 ==========
 
- [AI is a long equation](https://www.hrishi.io/ai-is-a-long-equation)
+ [AI is a long equation](https://www.hrishi.io/ai-is-a-long-equation) \
  (published on: Monday, September 29th, 2025)
 
  [Writing things down and reading them back](https://www.hrishi.io/writing-things-down-and-reading-them-back) \

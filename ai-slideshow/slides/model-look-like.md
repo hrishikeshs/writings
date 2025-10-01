@@ -1,2 +1,2 @@
-# What does a model "look like" ?
+# What does a model look like ?
 TBD

@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
   <head>
@@ -214,11 +213,10 @@
         height: 85vh;
         max-height: 85vh;
         margin: 0 auto;
-        display: flex !important;
-        flex-direction: column;
-        justify-content: flex-start;
-        overflow-y: auto;
+        display: block !important;
         text-align: left;
+        overflow-y: auto !important;
+        overflow-x: hidden;
       }
 
       .reveal .slides section.present {
@@ -529,6 +527,11 @@
         color: #0040dd;
         font-weight: 600;
       }
+
+      .reveal .progress {
+        bottom: auto !important;
+        top: 0 !important;
+      }
     </style>
   </head>
   <body>
@@ -607,34 +610,25 @@
         hash: true,
         plugins: [RevealMarkdown, RevealHighlight, RevealMath.KaTeX],
         transition: "slide",
-        controls: true, // Hide default controls since we have our navigator
-        progress: true, // Hide progress bar since we have slide navigator
-        // Enhanced mobile/touch settings
-        touch: true, // Enable touch navigation (default: true)
-        loop: false, // Don't loop presentations
-        rtl: false, // Left-to-right reading
+        controls: true,
+        progress: true,
+        touch: true,
+        loop: false,
+        rtl: false,
         math: {
           mathjax:
             "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js",
           config: "TeX-AMS_HTML-full",
-          // pass other options into `MathJax.Hub.Config()`
           TeX: { Macros: { RR: "{\\bf R}" } },
         },
 
-        // Mobile optimizations
         embedded: false,
         keyboard: true,
         overview: true,
         center: true,
-
-        // Touch threshold - how far you need to swipe to trigger navigation
         touchThreshold: 30,
-
-        // Transition settings optimized for mobile
         transitionSpeed: "default",
         backgroundTransition: "fade",
-
-        // CRITICAL: Disable auto-scaling on mobile
         width: "100%",
         height: "100%",
         margin: 0,
@@ -664,7 +658,6 @@
             Reveal.slide(index);
             updateActiveSlide(index);
 
-            // Close mobile menu if open
             if (window.innerWidth <= 768) {
               closeMobileMenu();
             }
@@ -673,11 +666,9 @@
           navContainer.appendChild(navItem);
         });
 
-        // Set first slide as active
         updateActiveSlide(0);
       }
 
-      // Update active slide in navigator
       function updateActiveSlide(index) {
         const navItems = document.querySelectorAll(".slide-nav-item");
         navItems.forEach((item, i) => {
@@ -685,12 +676,10 @@
         });
       }
 
-      // Listen for slide changes
       Reveal.on("slidechanged", (event) => {
         updateActiveSlide(event.indexh);
       });
 
-      // Mobile menu functionality
       const hamburgerMenu = document.getElementById("hamburgerMenu");
       const slideNavigator = document.getElementById("slideNavigator");
       const mobileOverlay = document.getElementById("mobileOverlay");
@@ -719,7 +708,6 @@
         mobileOverlay.classList.remove("active");
       }
 
-      // Keyboard shortcut to toggle navigator (T key)
       document.addEventListener("keydown", function (e) {
         if (e.key === "t" || e.key === "T") {
           if (window.innerWidth <= 768) {
@@ -732,12 +720,10 @@
         }
       });
 
-      // Initialize navigation after DOM is loaded
       document.addEventListener("DOMContentLoaded", function () {
         generateSlideNav();
       });
 
-      // Handle window resize
       window.addEventListener("resize", function () {
         if (window.innerWidth > 768) {
           closeMobileMenu();
