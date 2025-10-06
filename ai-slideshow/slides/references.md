@@ -2,7 +2,7 @@
 
 - [Can machines think? by Alan Turing: https://courses.cs.umbc.edu/471/papers/turing.pdf](https://courses.cs.umbc.edu/471/papers/turing.pdf)
 
-- [ChatGPT is a blurry JPEG of the web: https://courses.cs.umbc.edu/471/papers/turing.pdf](https://courses.cs.umbc.edu/471/papers/turing.pdf)
+- [ChatGPT is a blurry JPEG of the web: https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web))
 
 - [The false promise of ChatGPT: https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html)
 
