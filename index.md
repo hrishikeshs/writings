@@ -13,6 +13,9 @@ and other things I enjoy.
 Blog index
 ==========
 
+ [Claude code is a step change](https://www.hrishi.io/claude-code-step-change) \
+ (published on: Sunday, February 1st, 2026)
+
  [AI is a long equation](https://www.hrishi.io/ai-is-a-long-equation) \
  (published on: Monday, September 29th, 2025)
 
