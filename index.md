@@ -13,6 +13,9 @@ and other things I enjoy.
 Blog index
 ==========
 
+ [Introducing Magnus](https://www.hrishi.io/introducing-magnus) \
+ (published on: Saturday, February 7th, 2026)
+
  [Claude code is a step change](https://www.hrishi.io/claude-code-step-change) \
  (published on: Sunday, February 1st, 2026)
 
