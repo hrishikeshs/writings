@@ -21,7 +21,7 @@ Just yesterday, Anthropic themselves released "agent-teams" which is a feature w
 
 This post introduces my way of solving this problem:
 
-**[Magnus  - created by Claude Code - model Opus (so, maybe this is my Magnus Opus?)]((https://github.com/hrishikeshs/magnus))**
+**[Magnus  - created by Claude Code - model Opus (so, maybe this is my Magnus Opus?)](https://github.com/hrishikeshs/magnus)**
 
 `Magnus` is a brand new, shiny emacs package I created (even though I barely know elisp, but it doesn't matter now) which solves the problem:
 
