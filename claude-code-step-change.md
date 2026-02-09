@@ -1,3 +1,8 @@
+---
+title: "Claude Code is a Step Change"
+description: "My experience working with Claude Code in 2026 and how software engineering will never be the same again"
+---
+
 # Claude Code is a step change
 
 **published on: Sunday, February 1st, 2026**

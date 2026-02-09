@@ -1,3 +1,8 @@
+---
+title: "Software is Feature Complete"
+description: "TODO"
+---
+
 # Software is feature complete
 
 **published on: Monday, July 1, 2024**

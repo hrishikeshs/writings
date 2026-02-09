@@ -1,3 +1,8 @@
+---
+title: "Software is Hard"
+description: "TODO"
+---
+
 # Software is hard 1
 
 **published on Sunday, June 9, 2024**

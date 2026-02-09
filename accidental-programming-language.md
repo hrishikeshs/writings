@@ -1,3 +1,8 @@
+---
+title: "Accidentally Creating a New Programming Language"
+description: "The tendency to **_accidentally_** create a new programming language when building systems. Primarily because you have way too many boolean flags and codepaths through your code."
+---
+
 #  Accidentally creating a new programming language
 
 **published on : Tuesday, January 14, 2025**

@@ -1,3 +1,8 @@
+---
+title: "Thoughts on Functions"
+description: "TODO"
+---
+
 # Thoughts on functions
 
 **published on: Monday, June 24, 2024**

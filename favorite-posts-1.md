@@ -1,3 +1,8 @@
+---
+title: "Some of My Favorite Posts"
+description: "Links to various posts/articles I have found interesting over the years"
+---
+
 # Some of my favorite posts
 
 **published on : Wednesday, March 19, 2025**

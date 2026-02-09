@@ -1,3 +1,8 @@
+---
+title: "Kahneman and Interviewing Candidates"
+description: "On difficulties in hiring engineers - primarily about the way the tech industry does interviews - and why we should think harder about this problem. "
+---
+
 # Kahneman and interviewing candidates
 
 **published on : Sunday, June 23, 2024**

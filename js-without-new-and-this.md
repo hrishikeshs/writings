@@ -1,3 +1,8 @@
+---
+title: "Writing JavaScript Without Using 'this' and 'new'"
+description: "TODO"
+---
+
 # Writing JavaScript without using 'this' and 'new'
 
 **published on: Thursday, November 21, 2024**

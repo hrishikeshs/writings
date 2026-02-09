@@ -1,3 +1,8 @@
+---
+title: "AI is a Long Equation"
+description: "Inside look at what AI models actually are - what they look like, how they produce output - a raw and unfiltered and almost a mechanical interpretation that aims to demystify AI systems"
+---
+
 #  AI is a long equation
 
 **published on : Monday, September 29th, 2025**

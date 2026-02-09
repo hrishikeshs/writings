@@ -1,3 +1,8 @@
+---
+title: "Software Industry's Middle Age"
+description: "TODO"
+---
+
 # Software industry's middle age
 
 **published on: Wednesday, August 28, 2024**

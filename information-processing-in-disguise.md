@@ -1,3 +1,8 @@
+---
+title: "Information Processing Problems in Disguise"
+description: "Looking through various problems that seem different at first glance, but in fact, are just various instances of a common problem which is - Information processing"
+---
+
 # Information processing problems in disguise
 
 **published on: Saturday, September 28, 2024**

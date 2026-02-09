@@ -1,3 +1,8 @@
+---
+title: "Internet Advertising"
+description: "Internet ads are fucking ruining everything.. and now they want to put ads into chatgpt lmao"
+---
+
 # Internet advertising - 1
 
 **published on : Saturday, June 1, 2024**

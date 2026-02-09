@@ -1,3 +1,8 @@
+---
+title: "Thoughts on Zeke Faux's Book: Number Go Up"
+description: "TODO"
+---
+
 # Thoughts on Zeke Faux's book: Number Go Up
 
 **published on: Wednesday, September 4, 2024**

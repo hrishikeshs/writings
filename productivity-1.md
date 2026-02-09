@@ -1,3 +1,8 @@
+---
+title: "Software Development Productivity (Inhibitors)"
+description: "TODO"
+---
+
 # Software development productivity (inhibitors) - I
 
 **published on : Friday, April 26, 2024**

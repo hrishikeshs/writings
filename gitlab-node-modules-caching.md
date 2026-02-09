@@ -1,3 +1,8 @@
+---
+title: "Caching Node Modules on GitLab CI Runners"
+description: "The amount of BS in npm and gitlab and the systems we build is insane and infuriating - almost everything is self-inflicted chaos. Hopefully you'll be able to use the info in this post to optimize your own CI pipelines "
+---
+
 # Caching node modules on gitlab CI runners
 
 **published on: Thursday, November 7, 2024**

@@ -1,3 +1,8 @@
+---
+title: "You Can't \"Just Use AI\""
+description: "TODO"
+---
+
 # You can't "just use AI"
 
 **published on : Sunday, May 4th, 2025**

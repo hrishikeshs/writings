@@ -1,3 +1,8 @@
+---
+title: "Introducing Magnus"
+description: "I built this in ~2 hours after being inspired to find a better UX for managing multiple Claude Code instances inside emacs. An alternative to Anthropic's teams feature - which was released by them a couple of days later. Features of Magnus include coordination, attention queue, health monitoring between different instances of Claude Code. Works beautifully well and you'll feel like a symphony orchestra conductor."
+---
+
 # Introducing Magnus
 
 **published on: Saturday, February 7th, 2026**

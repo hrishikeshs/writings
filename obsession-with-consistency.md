@@ -1,3 +1,8 @@
+---
+title: "Obsession with Consistency"
+description: "TODO"
+---
+
 # Obsession with consistency
 
 **published on : Tuesday, March 4, 2025**

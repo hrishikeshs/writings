@@ -1,3 +1,8 @@
+---
+title: "Low Code, No-Code, and Other Lies"
+description: "TODO"
+---
+
 # Low code, no-code and other lies
 
 **published on: Tuesday, January 7, 2025**

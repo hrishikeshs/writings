@@ -1,3 +1,8 @@
+---
+title: "Writing Things Down and Reading Them Back"
+description: "TODO"
+---
+
 # Writing things down and reading them back
 
 **published on: Wednesday, August 13th, 2025**
