@@ -13,6 +13,9 @@ and other things I enjoy.
 Blog index
 ==========
 
+ [Neural networks and consciousness](https://www.hrishi.io/neural-networks-consciousness)\
+ (published on: Thursday, February 26th, 2026)
+
  [Introducing Magnus](https://www.hrishi.io/introducing-magnus) \
  (published on: Saturday, February 7th, 2026)
 
