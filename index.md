@@ -13,6 +13,9 @@ and other things I enjoy.
 Blog index
 ==========
 
+ [Agents don't think like you and me](https://www.hrishi.io/agents-dont-think)\
+ (published on: Wednesday, March 25th, 2026)
+
  [Neural networks and consciousness](https://www.hrishi.io/neural-networks-consciousness)\
  (published on: Thursday, February 26th, 2026)
 
