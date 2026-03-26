@@ -1,5 +1,5 @@
 ---
-title: "Accidentally creating a new programming language"
+title: "Agents don't think like you and me"
 description: "What I learned when trying to optimize context for AI models. Specifically, claude code Opus-4.6 by trying to give it IDE-like tooling"
 ---
 
