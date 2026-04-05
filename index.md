@@ -10,6 +10,9 @@ and other things I enjoy.
 [Github](https://github.com/hrishikeshs) \
 [LinkedIn](https://www.linkedin.com/in/hrishikesh-s/)
 
+[P.S: If you are looking for a clean/minimal app that provides stocks & options info \
+checkout my app on the app store: [OptionsWhisper](https://apps.apple.com/us/app/optionswhisper/id6761290128)]
+
 Blog index
 ==========
 
